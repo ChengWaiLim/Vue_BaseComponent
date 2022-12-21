@@ -24,7 +24,7 @@
         "vue-clickaway": "^2.2.2",
         "vue-count-to": "^1.0.13",
         "vue-ripple-directive": "^2.0.1",
-        "xlsx": "^0.16.9"
+        "xlsx": "^0.17.0"
     },
     "repository": {
         "type": "git",
